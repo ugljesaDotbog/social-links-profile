@@ -49,7 +49,7 @@ body {
 
 h3 {
     color: hsl(75, 94%, 57%);
-    font-size: clamp(12px, 4vw, 14px);
+    font-size: clamp(10px, 4vw, 12px);
     margin-top: 5px;
     font-weight: 600;
 }
